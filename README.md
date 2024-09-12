@@ -60,7 +60,8 @@ Pousse la nouvelle branche avec la commande :
 
 ##
 
-#Licence
+#Licence :
+
 Ce projet est sous la MIT License. Pour consulter la licence, vous devriez le voir sous le nom LICENSE pour les curieux et  
  les personnes désireuses de le lire.
 
