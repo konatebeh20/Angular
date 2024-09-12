@@ -36,28 +36,29 @@ Voici ci-dessous, la liste des branches et des tutoriels associés :
    npm install
 
 5. Installe les dépendances :
-
-
-#Utilisation
+Utilisation
 Pour démarrer le serveur de développement pour un tutoriel spécifique, nous devons utiliser la commande suivante :
    ```bash
    npm start
 
 
-##Contribuer
-Pour la contribution, 
-1. Fork le dépôt.
-2. Crée une branche pour ton tutoriel ou exercice
+6. Contribuer
+Pour la contribution, allons comme suit :
+
+   1. Fork le dépôt.
+   2. Crée une branche pour ton tutoriel ou exercice
     ```bash
    git checkout -b mon-nouveau-tutoriel
 
-
-3. Pousse la nouvelle branche
+7. nouvelle branche
+Pousse la nouvelle branche avec la commande :
     ```bash
    git push origin mon-nouveau-tutoriel
 
 
-4. Soumets une pull request avec une description claire de tes modifications.
+8. Soumets une pull request avec une description claire de tes modifications.
+
+##
 
 ##Licence
 Ce projet est sous la MIT License. Pour consulter la licence, vous devriez le voir sous le nom LICENSE pour les curieux et  
@@ -67,38 +68,46 @@ Ce projet est sous la MIT License. Pour consulter la licence, vous devriez le vo
 ##Comment créer une nouvelle branche sur GitHub
 Vous pouvez créer une nouvelle branche directement depuis votre dépôt local avec Git, ou via l'interface web de GitHub. Voici les deux méthodes :
 
-1. Depuis le terminal (localement avec Git)
+
+
+
+##Depuis le terminal (localement avec Git)
 Étapes :
-   1.1. Accède à ton dépôt local : Si tu n'as pas encore cloné ton dépôt, fais-le avec la commande suivante
+
+1. Accède à ton dépôt local : Si tu n'as pas encore cloné ton dépôt, fais-le avec la commande suivante
       ```bash
       git clone https://github.com/ton-utilisateur/ton-depot.git
-   cd ton-depot
+      cd ton-depot
 
-   1.2. Crée une nouvelle branche : Utilise la commande suivante pour créer et basculer vers une nouvelle branche
+2. Crée une nouvelle branche : Utilise la commande suivante pour créer et basculer vers une nouvelle branche
       ```bash
       git checkout -b nom-de-ta-branche
 
-   1.3. Pousse la nouvelle branche sur GitHub : Une fois la branche créée, pousse-la sur GitHub avec la commande suivante
+3. Pousse la nouvelle branche sur GitHub : Une fois la branche créée, pousse-la sur GitHub avec la commande suivante
       ```bash
       git push origin nom-de-ta-branche
 
-   1.4. Vérifie sur GitHub : La branche devrait maintenant apparaître dans l'interface web de ton dépôt GitHub
+4. Vérifie sur GitHub : La branche devrait maintenant apparaître dans l'interface web de ton dépôt GitHub
 
-2. Depuis l'interface web de GitHub
+
+
+###Depuis l'interface web de GitHub
 Étapes :
-   1.1. Accède à ton dépôt sur GitHub : Va sur GitHub.com et accède à ton dépôt.
+1. Accède à ton dépôt sur GitHub : Va sur GitHub.com et accède à ton dépôt.
 
-   1.2. Clique sur le menu des branches : En haut à gauche, tu verras un menu déroulant indiquant la branche actuelle (généralement main).
+2. Clique sur le menu des branches : En haut à gauche, tu verras un menu déroulant indiquant la branche actuelle (généralement main).
 
-   1.3. Crée une nouvelle branche :
+   2.1. Crée une nouvelle branche :
       . Clique sur le menu des branches.
       . Dans la barre de recherche, tape le nom de la nouvelle branche que tu veux créer.
       . Appuie sur "Enter" ou "Return" pour créer la nouvelle branche.
 
-   1.4. La nouvelle branche est prête : GitHub créera cette nouvelle branche à partir de la branche sur laquelle tu te trouvais initialement (souvent main).
+   2.2. La nouvelle branche est prête : GitHub créera cette nouvelle branche à partir de la branche sur laquelle tu te trouvais initialement (souvent main).
 
-##Conseils pour la gestion des branches
+###Conseils pour la gestion des branches
+
    . Pour chaque branche il nous faut les nommer de manière descriptive : Utilisons des noms de branches clairs et descriptifs pour chaque tutoriel, par exemple, angular_formation_1, tutoriel-2-angular-routing, etc.
+
    . Nous devons aussi documenter chaque branche : Assurons-nous que chaques branches contiennent un README.md ou des commentaires expliquant ce que le tutoriel couvre et comment le projet a été mis en place.
 
 Avec cette approche, nous aurons une organisation claire qui va nous permettre de suivre nos progrès à travers différents tutoriels et de documenter notre apprentissage de manière structurée.
