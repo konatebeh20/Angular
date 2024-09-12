@@ -1,7 +1,6 @@
 # Formation Angular
 Dépôt de Formation Angular
-##
-##
+
 ## Description
 
 Notre projet  Angular, vise à nous former et aussi fournir une base de formation pour les personnes désireuses de se former en programmation angular. Il contiendra des exemples et des exercices créés pour se former à Angular. Nous créerons des branches pour chaque tutoriel regardé et pratiqué pour voir l'étendue de notre portée et notre méthode de codage. Chaque branche représente un tutoriel ou un projet spécifique suivi pour acquérir des compétences dans Angular.
