@@ -60,18 +60,16 @@ Pousse la nouvelle branche avec la commande :
 
 ##
 
-##Licence
+#Licence
 Ce projet est sous la MIT License. Pour consulter la licence, vous devriez le voir sous le nom LICENSE pour les curieux et  
  les personnes désireuses de le lire.
 
-##Gestion des branches
-##Comment créer une nouvelle branche sur GitHub
-Vous pouvez créer une nouvelle branche directement depuis votre dépôt local avec Git, ou via l'interface web de GitHub. Voici les deux méthodes :
+#Gestion des branches
+1. Comment créer une nouvelle branche sur GitHub
+Pour créer une nouvelle branches github,Vous pouvez créer une nouvelle branche directement depuis votre dépôt local avec Git, ou via l'interface web de GitHub. Voici les deux méthodes :
 
-
-
-
-##Depuis le terminal (localement avec Git)
+#Méthodes 1
+1. Depuis le terminal (localement avec Git)
 Étapes :
 
 1. Accède à ton dépôt local : Si tu n'as pas encore cloné ton dépôt, fais-le avec la commande suivante
@@ -89,7 +87,7 @@ Vous pouvez créer une nouvelle branche directement depuis votre dépôt local a
 
 4. Vérifie sur GitHub : La branche devrait maintenant apparaître dans l'interface web de ton dépôt GitHub
 
-
+#Méthodes 2
 
 ###Depuis l'interface web de GitHub
 Étapes :
@@ -104,12 +102,14 @@ Vous pouvez créer une nouvelle branche directement depuis votre dépôt local a
 
    2.2. La nouvelle branche est prête : GitHub créera cette nouvelle branche à partir de la branche sur laquelle tu te trouvais initialement (souvent main).
 
-###Conseils pour la gestion des branches
+#Conseils pour la gestion des branches
 
    . Pour chaque branche il nous faut les nommer de manière descriptive : Utilisons des noms de branches clairs et descriptifs pour chaque tutoriel, par exemple, angular_formation_1, tutoriel-2-angular-routing, etc.
 
    . Nous devons aussi documenter chaque branche : Assurons-nous que chaques branches contiennent un README.md ou des commentaires expliquant ce que le tutoriel couvre et comment le projet a été mis en place.
 
 Avec cette approche, nous aurons une organisation claire qui va nous permettre de suivre nos progrès à travers différents tutoriels et de documenter notre apprentissage de manière structurée.
+
+#
 
 Merci et Au plaisir de vous avoir aidée. Je suis ouvert à  des éventuelles collaborations!
