@@ -65,7 +65,7 @@ Ce projet est sous la MIT License. Pour consulter la licence, vous devriez le vo
  les personnes désireuses de le lire.
 
 # Gestion des branches
-1. Comment créer une nouvelle branche sur GitHub
+Pour la gestion des branches, il nous faut créer une nouvelle branche sur GitHub
 Pour créer une nouvelle branches github,Vous pouvez créer une nouvelle branche directement depuis votre dépôt local avec Git, ou via l'interface web de GitHub. Voici les deux méthodes :
 
 ## Méthodes 1
