@@ -60,16 +60,16 @@ Pousse la nouvelle branche avec la commande :
 
 ##
 
-#Licence :
+# Licence :
 
 Ce projet est sous la MIT License. Pour consulter la licence, vous devriez le voir sous le nom LICENSE pour les curieux et  
  les personnes désireuses de le lire.
 
-#Gestion des branches
+# Gestion des branches
 1. Comment créer une nouvelle branche sur GitHub
 Pour créer une nouvelle branches github,Vous pouvez créer une nouvelle branche directement depuis votre dépôt local avec Git, ou via l'interface web de GitHub. Voici les deux méthodes :
 
-#Méthodes 1
+## Méthodes 1
 1. Depuis le terminal (localement avec Git)
 Étapes :
 
@@ -88,9 +88,9 @@ Pour créer une nouvelle branches github,Vous pouvez créer une nouvelle branche
 
 4. Vérifie sur GitHub : La branche devrait maintenant apparaître dans l'interface web de ton dépôt GitHub
 
-#Méthodes 2
+## Méthodes 2
 
-###Depuis l'interface web de GitHub
+### Depuis l'interface web de GitHub
 Étapes :
 1. Accède à ton dépôt sur GitHub : Va sur GitHub.com et accède à ton dépôt.
 
@@ -103,7 +103,7 @@ Pour créer une nouvelle branches github,Vous pouvez créer une nouvelle branche
 
    2.2. La nouvelle branche est prête : GitHub créera cette nouvelle branche à partir de la branche sur laquelle tu te trouvais initialement (souvent main).
 
-#Conseils pour la gestion des branches
+# Conseils pour la gestion des branches
 
    . Pour chaque branche il nous faut les nommer de manière descriptive : Utilisons des noms de branches clairs et descriptifs pour chaque tutoriel, par exemple, angular_formation_1, tutoriel-2-angular-routing, etc.
 
