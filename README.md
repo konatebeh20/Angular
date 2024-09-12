@@ -1,6 +1,5 @@
 # Formation Angular
 Dépôt de Formation Angular
-
 #
 
 ## Description
